@@ -1,8 +1,8 @@
 {
-	"maxiptv": {
-		"name": "MaxTV",
-		"url": "https://bit.ly/3Oiqpa5",
-		"id": "maxiptv"
+	"my iptv": {
+		"name": "Xiptv",
+		"url": "http://xtvip.net/get.php?username=Kareem786&password=6417029658&type=m3u_plus&output=ts",
+		"id": "my iptv"
 	},"maxspiptv": {
 		"name": "MaxTV Spanish",
 		"url": "https://bit.ly/3V8lryX",
